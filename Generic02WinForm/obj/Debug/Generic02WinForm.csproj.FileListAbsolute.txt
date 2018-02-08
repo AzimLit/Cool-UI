@@ -1,0 +1,11 @@
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\bin\Debug\Generic02WinForm.exe.config
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\bin\Debug\Generic02WinForm.exe
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\bin\Debug\Generic02WinForm.pdb
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.Properties.Resources.resources
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.csproj.GenerateResource.Cache
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.csproj.CoreCompileInputs.cache
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.exe
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.pdb
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.frmMainWindow.resources
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.SplashGen02.resources
+C:\Users\aziml\source\repos\Generic02WinForm\Generic02WinForm\obj\Debug\Generic02WinForm.csprojResolveAssemblyReference.cache
